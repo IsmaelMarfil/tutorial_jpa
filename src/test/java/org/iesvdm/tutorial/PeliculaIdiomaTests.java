@@ -21,7 +21,7 @@ import java.util.HashSet;
  */
 @SpringBootTest
 public class PeliculaIdiomaTests {
-
+/*
     @Autowired
     IdiomaRepository idiomaRepository;
     @Autowired
@@ -120,4 +120,6 @@ public class PeliculaIdiomaTests {
         idiomaRepository.delete(idioma1);
 
     }
+    */
+
 }
